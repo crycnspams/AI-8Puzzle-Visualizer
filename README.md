@@ -17,7 +17,18 @@ Assigned algorithm: **A\* Search** (algorithm 7), with full step-by-step visuali
 Manual input and random solvable puzzle, solvability check (inversion parity), Run / Pause / Resume / Next / Previous / Reset / Speed, live search statistics, solution summary, comparison table, algorithm information page.
 
 ## Screenshots
-Add screenshots to `images/` and link them here.
+
+### Home Page
+![Home Page](images/home.png)
+
+### Solver
+![Solver](images/solver.png)
+
+### Comparison
+![Comparison](images/comparison.png)
+
+### Algorithm Information
+![Algorithm Information](images/algorithm-info.png)
 
 ## GitHub Pages URL
 https://crycnspams.github.io/AI-8Puzzle-Visualizer
